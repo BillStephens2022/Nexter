@@ -2,7 +2,7 @@
 
   ## Description
 
-  This is an online Real Estate website built using advanced SCSS / CSS technicques including CSS grid and flexbox.
+  This is an online Real Estate website built using advanced SCSS / CSS techniques including CSS grid and flexbox.
 
   Screenshots below:
 
